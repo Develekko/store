@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function Register() {
     return <>
-        <div className="w-75 mx-auto">
+        <div className="w-75 mx-auto py-5">
             <h2>Registeration Form</h2>
             <form className='my-4'>
                 <label htmlFor="first_name">First Name</label>

@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function Login() {
   return <>
-          <div className="w-75 mx-auto">
+          <div className="w-75 mx-auto py-5">
             <h2>Login Form</h2>
             <form className='my-4'>
                 <label htmlFor="email">email</label>

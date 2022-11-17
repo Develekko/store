@@ -13,13 +13,15 @@ a {
   text-decoration: none;
   color: #fff!important;
 }
-input
+input,textarea
 {
   background-color: transparent!important;
   color: #fff!important;
+  resize: none;
 }
-input:focus
+input:focus,textarea:focus
 {
   box-shadow: none!important;
   border-color: #fff!important;
 }
+
