@@ -3,7 +3,7 @@ import React from 'react'
 export default function AddProduct() {
   return <>
   <div className="w-75 mx-auto py-5">
-            <h2>Add Product</h2>
+            <h2>Add Product 2</h2>
             <form className='my-4'>
                 <label htmlFor="first_name">Product Name</label>
                 <input id='first_name' type="text" placeholder='Product Name ..' className='form-control mb-4 mt-1' />
